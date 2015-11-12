@@ -1,0 +1,44 @@
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\ApplicationIcon.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Background.png
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Rodalona FGC.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Rodalona FGC.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\AppManifest.xaml
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Rodalona_FGC.xap
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\ResolveAssemblyReference.cache
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\App.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\MainPage.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\R5.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\R6.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S1.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S2.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S33.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S4.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S5.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S55.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S8.g.i.cs
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\Rodalona FGC.g.resources
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\Rodalona FGC.dll
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\Rodalona FGC.pdb
+C:\Users\adri-w7\Documents\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\XapCacheFile.xml
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Background.png
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Rodalona FGC.dll
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Rodalona FGC.pdb
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\AppManifest.xaml
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\Bin\Release\Rodalona_FGC.xap
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\App.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\R5.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\R6.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S1.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S2.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S33.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S4.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S5.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S55.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\S8.g.i.cs
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\Rodalona FGC.g.resources
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\Rodalona FGC.dll
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\Rodalona FGC.pdb
+D:\Visual Studio 2010\Projects\Rodalona FGC\Rodalona FGC\obj\Release\XapCacheFile.xml

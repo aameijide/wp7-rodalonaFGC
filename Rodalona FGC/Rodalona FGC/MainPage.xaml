@@ -1,0 +1,57 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Rodalona_FGC.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot es la cuadrícula raíz donde se coloca todo el contenido de la página-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contiene el nombre de la aplicación y el título de la página-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="Rodalona FGC" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Seleccioni tren" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel. Colocar aquí el contenido adicional-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListBox Name="trens" Margin="0,0,0,0">
+                <TextBlock Width="450" FontSize="22" Text="S1 - BCN (Pl. Catalunya) - Terrasasa" Height="40" ManipulationStarted="OnS1ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="S2 - BCN (Pl. Catalunya) - Sabadell" Height="40" ManipulationStarted="OnS2ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="S33 - BCN (Pl. Espanya) - Can Ros" Height="40" ManipulationStarted="OnS33ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="S4 - BCN (Pl. Espanya) - Olesa de Montserrat" Height="40" ManipulationStarted="OnS4ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="S5 - BCN (Pl. Catalunya) - Sant Cugat - Rubí" Height="40" ManipulationStarted="OnS5ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="S55 - BCN (Pl. Catalunya) - UAB" Height="40" ManipulationStarted="OnS55ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="S8 - BCN (Pl. Espanya) - Martorell - Enllaç" Height="40" ManipulationStarted="OnS8ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="R5 - BCN (Pl. Espanya) - Manresa" Height="40" ManipulationStarted="OnR5ManipulationStarted"/>
+                <TextBlock Width="450" FontSize="22" Text="R6 - BCN (Pl. Espanya) - Igualada" Height="40" ManipulationStarted="OnR6ManipulationStarted"/>
+            </ListBox>
+        </Grid>
+    </Grid>
+
+    <!--Código de ejemplo que muestra el uso de ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Botón 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Botón 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 1"/>
+                <shell:ApplicationBarMenuItem Text="Elemento de menú 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>
